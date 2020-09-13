@@ -1,0 +1,11 @@
+#videoElement {
+  width: 800px;
+  height: 600px;
+  background-color: #666;
+  float: left;
+}
+
+.controls {
+  display: inline-block;
+  padding: 20px;
+}
